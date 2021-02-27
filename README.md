@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### Github Stats
+Commits: {{ COMMITS }}
+Repositories: {{ REPOSITORIES }}
+Account age: {{ ACCOUNT_AGE }}

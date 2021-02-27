@@ -19,11 +19,11 @@ Commits: {{ COMMITS }}
 Repositories: {{ REPOSITORIES }}
 Account age: {{ ACCOUNT_AGE }}
 -->
-I'm **Maricar** (Ma-REE-car / MAH-ree-car)/**Kai** and I am an aspiring web developer. I am a Filipina🇵🇭 and living in the US🇺🇸. Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months before joining **LaunchCode's CoderGirl C# Web Development** program where I also got familiar with Angular. I am **available for remote full-time employment**.
+I'm **Maricar** (Ma-REE-car / MAH-ree-car)/**Kai** and I am a web developer. I am a Filipina🇵🇭 and living in the US🇺🇸. Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months before joining **LaunchCode's CoderGirl C# Web Development** program where I also got familiar with Angular. I am **available for remote full-time employment**.
 <br>
 <hr>
 <br>
-🔭 I’m currently working on ...
+🔭 I’m currently working on
 - A full-stack movie watchlist web app
 - A group project with LaunchCode CoderGirl 
 

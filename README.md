@@ -28,6 +28,10 @@ I'm **Maricar** (MAH-ree-car/Mah-ree-CAR) /**Kai** and I am a web developer. I a
 <br>
 - A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end
 <br>
+
+👯 I’m looking to collaborate on 
+- a full stack web app with an experienced developer who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning (*cough cough, it's me*)
+<br>
 🌱💻 **I have learned/currently learning**
 - C#/.NET
 - ASP.NET MVC

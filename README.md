@@ -13,8 +13,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ##### Github Stats
 Commits: {{ COMMITS }}
 Repositories: {{ REPOSITORIES }}
 Account age: {{ ACCOUNT_AGE }}
+-->
+
+🔭 I’m currently working on ...
+- A full-stack movie watchlist web app
+- A group project with LaunchCode CoderGirl 
+
+🌱 I have learned/currently learning:
+- C#/.NET
+- ASP.NET MVC
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- SQL/ MySQL/ SQLServer
+- TypeScript
+- Angular
+- Node.js
+- Express
+
+📫 How to reach me: ...
+😄 Pronouns: she/her
+⚡ Fun fact: 

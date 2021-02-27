@@ -32,6 +32,7 @@ I'm **Maricar** (MAH-ree-car/Mah-ree-CAR) /**Kai** and I am a web developer. I a
 👯 **I’m looking to collaborate on**
 a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning (*cough cough, it's me*)
 <br>
+<br>
 🌱💻 **I have learned/currently learning**
 - C#/.NET
 - ASP.NET MVC

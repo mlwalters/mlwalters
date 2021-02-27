@@ -23,7 +23,9 @@ I'm **Maricar** (Ma-REE-car / MAH-ree-car)/**Kai** and I am a web developer. I a
 <br>
 <hr>
 🔭 I’m currently working on
-- A full-stack movie watchlist web app
+<br>
+- <a href="https://github.com/carrimaxx/MovieWatchlist">A full-stack movie watchlist web app</a>
+<br>
 - A group project with LaunchCode CoderGirl 
 
 🌱 I have learned/currently learning

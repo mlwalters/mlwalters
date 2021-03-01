@@ -24,10 +24,10 @@ I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)* /**Kai** and I am a web developer. I
 <hr>
 👩‍💻 I’m currently working on
 <br />
-- <a href="https://github.com/carrimaxx/MovieWatchlist">A full-stack movie watchlist web app</a>
-<br />
-- A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end
-<br />
+<ul>
+  <li><a href="https://github.com/carrimaxx/MovieWatchlist">A full-stack movie watchlist web app</a></li>
+  <li>A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end</li>
+</ul>
 <br />
 👯 I’m looking to collaborate on
 a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning (*cough cough, it's me*)
@@ -57,6 +57,8 @@ a full stack web app with senior developers who would like to share their knowle
 ⚡  Random facts about me: I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)
 
 ### Projects I've made
-freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a>
-A website with activities you can do during quarantine  <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a>
-A to-do web app that stores data to local storage using HTML/ CSS/ JavaScript <a href="https://github.com/carrimaxx/todo-webapp">Live</a> | <a href="https://carrimaxx.github.io/todo-webapp/">Repo</a>
+<ul>
+<li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
+<li>A website with activities you can do during quarantine  <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
+<li>A to-do web app that stores data to local storage using HTML/ CSS/ JavaScript <a href="https://github.com/carrimaxx/todo-webapp">Live</a> | <a href="https://carrimaxx.github.io/todo-webapp/">Repo</a></li>
+</ul>

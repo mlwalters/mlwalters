@@ -56,5 +56,7 @@ a full stack web app with senior developers who would like to share their knowle
 <br />
 ⚡  Random facts about me: I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)
 
-##### Projects I've made
+### Projects I've made
 freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a>
+A website with activities you can do during quarantine  <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a>
+A to-do web app that stores data to local storage using HTML/ CSS/ JavaScript <a href="https://github.com/carrimaxx/todo-webapp">Live</a> | <a href="https://carrimaxx.github.io/todo-webapp/">Repo</a>

@@ -54,4 +54,7 @@ a full stack web app with senior developers who would like to share their knowle
 <br />
 ✨  Pronouns: she/her
 <br />
-⚡  Random facts about me: I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate it ;)
+⚡  Random facts about me: I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)
+
+##### Projects I've made
+freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a>

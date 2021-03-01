@@ -58,7 +58,8 @@ a full stack web app with senior developers who would like to share their knowle
 
 ### Projects I've made
 <ul>
-<li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
-<li>A website with activities you can do during quarantine  <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
-<li>A to-do web app that stores data to local storage using HTML/ CSS/ JavaScript <a href="https://github.com/carrimaxx/todo-webapp">Live</a> | <a href="https://carrimaxx.github.io/todo-webapp/">Repo</a></li>
+<li>Started in freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
+<li>Started in A website with activities you can do during quarantine  <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
+<li>Started in A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https://github.com/carrimaxx/todo-webapp">Live</a> | <a href="https://carrimaxx.github.io/todo-webapp/">Repo</a></li>
+<li>Started in August 2020 A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
 </ul>

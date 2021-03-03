@@ -28,7 +28,6 @@ I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)* /**Kai** and I am a web developer. I
   <li><a href="https://github.com/carrimaxx/MovieWatchlist">A full-stack movie watchlist web app</a></li>
   <li>A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end</li>
 </ul>
-<br />
 👯 I’m looking to collaborate on
 a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning (*cough cough, it's me*)
 <br />
@@ -47,7 +46,6 @@ a full stack web app with senior developers who would like to share their knowle
 - Angular
 - Node.js
 - Express
-- jQuery
 <br />
 <br />
 📧  How to reach me: <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a>
@@ -62,4 +60,5 @@ a full stack web app with senior developers who would like to share their knowle
 <li>Started in April 2020 |A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
 <li>Started in September 2020 | A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/todo-webapp/">Live</a> | <a href="https://github.com/carrimaxx/todo-webapp">Repo</a></li>
 <li>Started in August 2020 | A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
+<li>Started in March 2020 | One of my first projects to demonstrate what I have learned with CSS (& some Bootstrap) styling especially responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
 </ul>

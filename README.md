@@ -7,10 +7,8 @@ Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months 
 
 I am **available for remote full-time employment** mainly focused on **C#/.NET** and/or **JavaScript Web Development**.
 
-
-
 <hr>
-<br />
+
 <h4>My tech stack:</h4>
 <div>
 <span><img src="assets/csharp.png" alt="c-sharp logo" width="60"></span><span><img src="assets/dotnet.png" alt="dotnet logo" width="60"></span><span><img src="assets/html-5.png" alt="HTML5 logo" width="60"></span><span><img src="assets/css.png" alt="CSS3 logo" width="60"></span><span><img src="assets/bootstrap.png" alt="bootstrap logo" width="60"></span><span><img src="assets/mysql.png" alt="mysql logo" width="60"></span><span><img src="assets/Microsoft-SQL-Server-logo.jpg" alt="Microsoft SQL Server logo" width="60"></span><span><img src="assets/nodejs.png" alt="node-js logo" width="60"></span><span><img src="assets/mstest.png" alt="MS test logo" width="60"></span><span><img src="assets/jasmine.png" alt="jasmine logo" width="60"></span><span><img src="assets/typescript.png" alt="typescript logo" width="60"></span><span><img src="assets/angular.png" alt="angular logo" width="60"></span>
@@ -25,11 +23,11 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
 <br />
 <br />
-<h5 style="display:inline;">📧  How to reach me: </h5><span><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a></span>
+<h5>📧  How to reach me: </h5><span><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a></span>
 <br />
-<h5 style="display:inline;">✨  Pronouns: </h5><span>she/her</span>
+<span><h5>✨  Pronouns: </h5>she/her</span>
 <br />
-<h5 style="display:inline;">⚡  Random facts about me: </h5><span>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</span> 
+<h5>⚡  Random facts about me: </h5><span>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</span> 
 
 
 <h4>Projects I've made</h4> 

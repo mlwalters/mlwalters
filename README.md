@@ -3,7 +3,7 @@
 
 I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)*, my nickname is **Kai** and I am a web developer. I am a Filipina living in the US. 
 
-Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months before joining **LaunchCode's CoderGirl C# Web Development** program where I also got familiar with Angular. 
+Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months before joining **LaunchCode's CoderGirl JavaScript C# Web Development** program where I also got familiar with Angular. 
 
 I am **available for remote full-time employment** mainly focused on **C#/.NET** and/or **JavaScript Web Development**.
 

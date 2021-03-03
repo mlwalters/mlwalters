@@ -29,11 +29,13 @@ I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)* /**Kai** and I am a web developer. I
   <li>A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end</li>
 </ul>
 👯 I’m looking to collaborate on
-a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning (*cough cough, it's me*)
+a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning ( *cough cough, it's me* )
 <br />
 <br />
 💻 My tech stack:
+<div>
 <span><img src="assets/csharp.png" alt="c-sharp logo" width="80"></span><span><img src="assets/dotnet.png" alt="dotnet logo" width="80"></span><span><img src="assets/html-5.png" alt="HTML5 logo" width="80"></span><span><img src="assets/css.png" alt="CSS3 logo" width="80"></span>
+</div>
 - C#/.NET
 - ASP.NET MVC
 - JavaScript

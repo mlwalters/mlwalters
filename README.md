@@ -33,7 +33,7 @@ a full stack web app with senior developers who would like to share their knowle
 <br />
 <br />
 💻 My tech stack:
-<img src="../assets/csharp.png"><img src=""><img src=""><img src="">
+<img src="assets/csharp.png"><img src=""><img src=""><img src="">
 - C#/.NET
 - ASP.NET MVC
 - JavaScript

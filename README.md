@@ -23,11 +23,11 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
 <br />
 <br />
-<h5>📧  How to reach me: </h5><span><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a></span>
+<p><strong>📧  How to reach me: </strong><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a></p>
 <br />
-<span><h5>✨  Pronouns: </h5>she/her</span>
+<p><strong>✨  Pronouns:</strong> she/her</p>
 <br />
-<h5>⚡  Random facts about me: </h5><span>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</span> 
+<p><strong>⚡  Random facts about me: </strong>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</p>
 
 
 <h4>Projects I've made</h4> 

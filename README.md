@@ -33,11 +33,7 @@ a full stack web app with senior developers who would like to share their knowle
 <br />
 <br />
 💻 My tech stack:
-<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+<img src="../assets/csharp.png"><img src=""><img src=""><img src="">
 - C#/.NET
 - ASP.NET MVC
 - JavaScript

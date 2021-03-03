@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)* /**Kai** and I am a web developer. I am a Filipina and living in the US. 
+I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)*, my nickname is **Kai** and I am a web developer. I am a Filipina living in the US. 
 
 Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months before joining **LaunchCode's CoderGirl C# Web Development** program where I also got familiar with Angular. 
 
-I am **available for remote full-time employment** mainly focused on **C#/.NET and/or JavaScript Web Development**.
+I am **available for remote full-time employment** mainly focused on **C#/.NET** and/or **JavaScript Web Development**.
 
 
 
@@ -32,7 +32,7 @@ a full stack web app with senior developers who would like to share their knowle
 <h5 style="display:inline;">⚡  Random facts about me: </h5><span>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</span> 
 
 
-#### Projects I've made
+<h4>Projects I've made</h4> 
 <ul>
 <li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
 <li>A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
@@ -40,5 +40,7 @@ a full stack web app with senior developers who would like to share their knowle
 <li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
 <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
 </ul>
+
+
 
 <sub>Credits: icons from freepik/flaticon</sub>

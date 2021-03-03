@@ -32,7 +32,7 @@ I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)* /**Kai** and I am a web developer. I
 a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning (*cough cough, it's me*)
 <br />
 <br />
-🌱💻 I have learned/currently learning
+💻 I have learned/currently learning
 - C#/.NET
 - ASP.NET MVC
 - JavaScript
@@ -57,8 +57,8 @@ a full stack web app with senior developers who would like to share their knowle
 ### Projects I've made
 <ul>
 <li>Started in August 2020 | freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
-<li>Started in April 2020 |A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
+<li>Started in April 2020 | A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
 <li>Started in September 2020 | A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/todo-webapp/">Live</a> | <a href="https://github.com/carrimaxx/todo-webapp">Repo</a></li>
 <li>Started in August 2020 | A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
-<li>Started in March 2020 | One of my first projects to demonstrate what I have learned with CSS (& some Bootstrap) styling especially responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
+<li>Started in March 2020 | One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
 </ul>

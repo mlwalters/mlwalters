@@ -39,7 +39,9 @@ a full stack web app with senior developers who would like to share their knowle
 </ul>
 <h6>To demonstrate back-end skills:</h6>
 <ul>
-  <li>A C#/.NET web app using MVC design pattern to create a movie watchlist with authentication and CRUD functionality <a href="https://github.com/carrimaxx/MovieWatchlist">Repo</a></li>
+  <li>A C#/.NET web app using MVC design pattern to create a movie watchlist using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com/carrimaxx/MovieWatchlist">Repo</a></li>
+  <li>A C#/.NET web app using MVC design pattern to create a web app TechJobs search and list(lookup) using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com/carrimaxx/TechJobsPersistent">Repo</a></li>
+  
 </ul>
 
 

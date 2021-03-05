@@ -29,6 +29,7 @@ a full stack web app with senior developers who would like to share their knowle
 
 
 <h4>Projects I've made</h4> 
+<h6>To demonstrate front-end skills:</h6>
 <ul>
 <li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
 <li>A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
@@ -36,6 +37,7 @@ a full stack web app with senior developers who would like to share their knowle
 <li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
 <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
 </ul>
+<h6>To demonstrate back-end skills:</h6>
 
 
 

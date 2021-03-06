@@ -19,8 +19,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
   <li><a href="https://github.com/carrimaxx/MovieWatchlist">A full-stack movie watchlist web app</a></li>
   <li>A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end</li>
 </ul>
-<h4>I’m looking to collaborate on</h4>
-a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
+<h4>I’m looking to collaborate on</h4> a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
 <br />
 <br />
 <p><strong>📧  How to reach me: </strong><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a></p>
@@ -29,7 +28,7 @@ a full stack web app with senior developers who would like to share their knowle
 
 
 <h4>Projects I've made</h4> 
-<h6>To demonstrate front-end skills:</h6>
+<h5>Front-end skills:</h5>
 <ul>
 <li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
 <li>A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
@@ -37,11 +36,10 @@ a full stack web app with senior developers who would like to share their knowle
 <li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
 <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
 </ul>
-<h6>To demonstrate back-end skills:</h6>
+<h5>Back-end skills:</h5>
 <ul>
   <li>A C#/.NET web app using MVC design pattern to create a movie watchlist using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com/carrimaxx/MovieWatchlist">Repo</a></li>
   <li>A C#/.NET web app using MVC design pattern to create a web app TechJobs search and list(lookup) using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com/carrimaxx/TechJobsPersistent">Repo</a></li>
-  
 </ul>
 
 

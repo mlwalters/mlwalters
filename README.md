@@ -27,7 +27,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <p><strong>⚡  Random facts about me: </strong>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</p>
 
 
-<h4>Projects I've made</h4> 
+<h3>Projects I've made</h3> 
 <h5>Front-end skills:</h5>
 <ul>
 <li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>

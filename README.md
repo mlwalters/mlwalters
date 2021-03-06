@@ -16,7 +16,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <br />
 <h4>I’m currently working on</h4>
 <ul>
-  <li><a href="https://github.com/carrimaxx/MovieWatchlist">A full-stack movie watchlist web app</a></li>
+  <li><a href="https://github.com//mlwalters/MovieWatchlist">A full-stack movie watchlist web app</a></li>
   <li>A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end</li>
 </ul>
 <h4>I’m looking to collaborate on</h4> a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
@@ -30,16 +30,16 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <h3>Projects I've made</h3> 
 <h5>Front-end skills:</h5>
 <ul>
-<li>freeCodeCamp portfolio: <a href="https://carrimaxx.github.io/fcc-portfolio/">Live</a> | <a href="https://github.com/carrimaxx/fcc-portfolio">Repo</a></li>
-<li>A website with activities you can do during quarantine using HTML/CSS <a href="https://carrimaxx.github.io/stay-at-home/">Live</a> | <a href="https://github.com/carrimaxx/stay-at-home">Repo</a></li>
-<li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/todo-webapp/">Live</a> | <a href="https://github.com/carrimaxx/todo-webapp">Repo</a></li>
-<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https://carrimaxx.github.io/booklist-app/">Live</a> | <a href="https://github.com/carrimaxx/booklist-app">Repo</a></li>
-<li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https://carrimaxx.github.io/recipe-page/">Live</a> | <a href="https://github.com/carrimaxx/recipe-page">Repo</a></li>
+<li>freeCodeCamp portfolio: <a href="https://mlwalters.github.io/freeCodeCamp-portfolio/">Live</a> | <a href="https://github.com//mlwalters/fcc-portfolio">Repo</a></li>
+<li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/">Live</a> | <a href="https://github.com//mlwalters/stay-at-home">Repo</a></li>
+<li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/">Live</a> | <a href="https://github.com//mlwalters/todo-webapp">Repo</a></li>
+<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/">Live</a> | <a href="https://github.com//mlwalters/booklist-app">Repo</a></li>
+<li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
 </ul>
 <h5>Back-end skills:</h5>
 <ul>
-  <li>A C#/.NET web app using MVC design pattern to create a movie watchlist using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com/carrimaxx/MovieWatchlist">Repo</a></li>
-  <li>A C#/.NET web app using MVC design pattern to create a web app TechJobs search and list(lookup) using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com/carrimaxx/TechJobsPersistent">Repo</a></li>
+  <li>A C#/.NET web app using MVC design pattern to create a movie watchlist using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com//mlwalters/MovieWatchlist">Repo</a></li>
+  <li>A C#/.NET web app using MVC design pattern to create a web app TechJobs search and list(lookup) using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com//mlwalters/TechJobsPersistent">Repo</a></li>
 </ul>
 
 

@@ -17,7 +17,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <h4>I’m currently working on</h4>
 <ul>
   <li><a href="https://github.com//mlwalters/MovieWatchlist">A full-stack movie watchlist web app</a></li>
-  <li>A full-stack web app group project with LaunchCode CoderGirl, with C#/.NET for the back-end and Angular for the front-end</li>
+  <li>Organizely E-Planner: A responsive and fast web application, built with C#/.NET for the back-end and Angular for the front-end to help students manage time and organize tasks, designed with simple but practical features to help students focus and be more productive</li>
 </ul>
 <h4>I’m looking to collaborate on</h4> a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
 <br />

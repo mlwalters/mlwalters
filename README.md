@@ -3,7 +3,7 @@
 
 I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)*/**Kai**. I am a Filipina living in the US. 
 
-Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months before joining **LaunchCode's CoderGirl JavaScript & C# Web Development** program where I also got familiar with Angular. 
+Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months using freeCodeCamp and YouTube tutorials, before joining **LaunchCode's CoderGirl JavaScript & C# Web Development** program where I also got familiar with Angular. 
 
 I am **available for remote full-time employment** mainly focused on **C#/.NET** and/or **JavaScript Web Development**.
 
@@ -42,6 +42,13 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
 </ul>
 
+
+<h3>Certificates</h3>
+<ul>
+  <li>LaunchCode Codergirl JavaScript & C# Web Development Course - 2020-2021</li>
+  <li><a href="https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design">freeCodeCamp Responsive Web Design</a> - 2020</li>
+  <li>freeCodeCamp Algorithm and Data Structures - 2020 (I am 3 challenges away from getting my certificate, temporarily discontinued to focus on LaunchCode's course.)</li>
+  </ul>
 
 
 

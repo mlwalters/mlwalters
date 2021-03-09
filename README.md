@@ -39,8 +39,15 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/">Live</a> | <a href="https://github.com//mlwalters/stay-at-home">Repo</a></li>
 <li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/">Live</a> | <a href="https://github.com//mlwalters/todo-webapp">Repo</a></li>
 <li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/">Live</a> | <a href="https://github.com//mlwalters/booklist-app">Repo</a></li>
-<li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
-</ul>
+
+  </ul>
+<h5>Some of my older front-end projects</h5>
+<ul>
+  <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
+  <li><a href="https://codepen.io/carrimaxx/full/YzwGmGp">A website for a made up company on Codepen</a></li>
+  <li><a href="https://codepen.io/carrimaxx/full/eYJBMKr">A sample technical documentation page on Codepen</a></li>
+  <li><a href="https://codepen.io/carrimaxx/full/dyYbyVd">A sample survey form on Codepen</a></li>
+  </ul>
 
 
 <h3>Certificates</h3>

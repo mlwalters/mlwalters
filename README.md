@@ -16,7 +16,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <br />
 <h4>I’m currently working on</h4>
 <ul>
-  <li><a href="https://github.com//mlwalters/MovieWatchlist">A full-stack movie watchlist web app using C#/.NET5 and SQLServer for the database.</a></li>
+  <li><a href="https://github.com//mlwalters/MovieWatchlist" target="_blank">A full-stack movie watchlist web app using C#/.NET5 and SQLServer for the database.</a></li>
   <li>Organizely E-Planner: A responsive and dynamic web application, built with C#/.NET for the back-end and Angular for the front-end to help students manage time and organize tasks, designed with simple but practical features </li>
 </ul>
 <h4>I’m looking to collaborate on</h4> a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/SQL/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
@@ -35,17 +35,16 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 </ul>
 <h4>Front-end skills:</h4>
 <ul>
-  
-  <li>A website with activities you can do during quarantine using HTML/CSS <a href="https://mlwalters.github.io/html-me-something" target="_blank">Live</a></li>
-<li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/stay-at-home">Repo</a></li>
-<li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/todo-webapp">Repo</a></li>
-<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/booklist-app">Repo</a></li>
-<li>freeCodeCamp sample portfolio <a href="https://mlwalters.github.io/freeCodeCamp-portfolio/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/fcc-portfolio">Repo</a></li>
+  <li>A LaunchCode Codergirl assignment, a webpage to demostrate HTML/CSS skills<a href="https://mlwalters.github.io/html-me-something" target="_blank">Live</a></li> | <a href="https://github.com/mlwalters/html-me-something" target="_blank">Repo</a></li>
+<li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/stay-at-home" target="_blank">Repo</a></li>
+<li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/todo-webapp" target="_blank">Repo</a></li>
+<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/booklist-app" target="_blank">Repo</a></li>
+<li>freeCodeCamp sample portfolio <a href="https://mlwalters.github.io/freeCodeCamp-portfolio/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/fcc-portfolio" target="_blank">Repo</a></li>
 
   </ul>
 <h5>Some of my older front-end projects</h5>
 <ul>
-  <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
+  <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/recipe-page" target="_blank">Repo</a></li>
   <li><a href="https://codepen.io/carrimaxx/full/YzwGmGp" target="_blank">A website for a made up company on Codepen</a></li>
   <li><a href="https://codepen.io/carrimaxx/full/eYJBMKr" target="_blank">A sample technical documentation page on Codepen</a></li>
   <li><a href="https://codepen.io/carrimaxx/full/dyYbyVd" target="_blank">A sample survey form on Codepen</a></li>
@@ -54,8 +53,8 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 
 <h3>Certificates</h3>
 <ul>
-  <li>LaunchCode Codergirl JavaScript & C# Web Development Course - 2020-2021</li>
-  <li><a href="https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design">freeCodeCamp Responsive Web Design</a> - 2020</li>
+  <li><a href="https://www.launchcode.org/" target="_blank">LaunchCode</a> Codergirl JavaScript & C# Web Development Course - 2020-2021</li>
+  <li><a href="https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design" target="_blank">freeCodeCamp Responsive Web Design</a> - 2020</li>
   <li>freeCodeCamp Algorithm and Data Structures - 2020 (I am 3 challenges away from getting my certificate, temporarily discontinued to focus on LaunchCode's course.)</li>
   </ul>
 

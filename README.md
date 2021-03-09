@@ -22,7 +22,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <h4>I’m looking to collaborate on</h4> a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/SQL/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
 <br />
 <br />
-<p><strong>📧  How to reach me: </strong><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F">LinkedIn</a></p>
+<p><strong>📧  How to reach me: </strong><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F" target="_blank">LinkedIn</a></p>
 <p><strong>✨  Pronouns:</strong> she/her</p>
 <p><strong>⚡  Random facts about me: </strong>I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them ;)</p>
 
@@ -35,18 +35,20 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 </ul>
 <h4>Front-end skills:</h4>
 <ul>
-<li>freeCodeCamp portfolio: <a href="https://mlwalters.github.io/freeCodeCamp-portfolio/">Live</a> | <a href="https://github.com//mlwalters/fcc-portfolio">Repo</a></li>
-<li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/">Live</a> | <a href="https://github.com//mlwalters/stay-at-home">Repo</a></li>
-<li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/">Live</a> | <a href="https://github.com//mlwalters/todo-webapp">Repo</a></li>
-<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/">Live</a> | <a href="https://github.com//mlwalters/booklist-app">Repo</a></li>
+  
+  <li>A website with activities you can do during quarantine using HTML/CSS <a href="https://mlwalters.github.io/html-me-something" target="_blank">Live</a></li>
+<li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/stay-at-home">Repo</a></li>
+<li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/todo-webapp">Repo</a></li>
+<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/booklist-app">Repo</a></li>
+<li>freeCodeCamp sample portfolio <a href="https://mlwalters.github.io/freeCodeCamp-portfolio/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/fcc-portfolio">Repo</a></li>
 
   </ul>
 <h5>Some of my older front-end projects</h5>
 <ul>
-  <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
-  <li><a href="https://codepen.io/carrimaxx/full/YzwGmGp">A website for a made up company on Codepen</a></li>
-  <li><a href="https://codepen.io/carrimaxx/full/eYJBMKr">A sample technical documentation page on Codepen</a></li>
-  <li><a href="https://codepen.io/carrimaxx/full/dyYbyVd">A sample survey form on Codepen</a></li>
+  <li>One of my first projects to demonstrate what I have learned with web design principles & responsiveness <a href="https:///mlwalters.github.io/recipe-page/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/recipe-page">Repo</a></li>
+  <li><a href="https://codepen.io/carrimaxx/full/YzwGmGp" target="_blank">A website for a made up company on Codepen</a></li>
+  <li><a href="https://codepen.io/carrimaxx/full/eYJBMKr" target="_blank">A sample technical documentation page on Codepen</a></li>
+  <li><a href="https://codepen.io/carrimaxx/full/dyYbyVd" target="_blank">A sample survey form on Codepen</a></li>
   </ul>
 
 

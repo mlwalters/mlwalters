@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)*/**Kai**. I am a Filipina living in the US. 
+I'm **Maricar** *(MAH-ree-car/Mah-ree-CAR)*/**Kai**.
 
 Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months using freeCodeCamp and YouTube tutorials, before joining **LaunchCode's CoderGirl JavaScript & C# Web Development** program where I also got familiar with Angular. 
 
@@ -36,7 +36,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 </ul>
 <h4>Front-end skills:</h4>
 <ul>
-  <li>A LaunchCode Codergirl assignment, a webpage to demostrate HTML/CSS skills<a href="https://mlwalters.github.io/html-me-something" target="_blank"> Live</a></li> | <a href="https://github.com/mlwalters/html-me-something" target="_blank"> Repo</a></li>
+  <li>A LaunchCode Codergirl assignment, a webpage to demostrate HTML/CSS skills<a href="https://mlwalters.github.io/html-me-something" target="_blank"> Live</a> | <a href="https://github.com/mlwalters/html-me-something" target="_blank"> Repo</a></li>
 <li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/stay-at-home" target="_blank"> Repo</a></li>
 <li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/todo-webapp" target="_blank"> Repo</a></li>
 <li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/booklist-app" target="_blank"> Repo</a></li>

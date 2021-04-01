@@ -16,7 +16,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <br />
 <h4>I’m currently working on</h4>
 <ul>
-  <li><a href="https://github.com/AKA-Liftoff-Group-2021/Organizely-App" target="_blank">Organizely E-Planner:</a> A responsive and dynamic web application, built with C#/.NET REST Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, to help students manage time and organize tasks, designed with simple but practical features </li>
+  <li><a href="https://github.com/AKA-Liftoff-Group-2021/Organizely-App" target="_blank">Organizely E-Planner:</a> A responsive and dynamic web application, built with C#/.NET REST Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, to help students manage time and organize tasks, designed with simple but practical features. This is a group capstone project I am working on with 3 other LaunchCode graduates. </li>
   <li><a href="https://github.com//mlwalters/MovieWatchlist" target="_blank">A full-stack movie watchlist web app using C#/.NET5 and SQLServer for the database.</a> This will be modified to be an application that will make it easier for couples, families, and friends to decide on what to watch by matching their lists and interests.</li>
 </ul>
 <br />

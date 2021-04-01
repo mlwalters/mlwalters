@@ -18,6 +18,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <ul>
   <li><a href="https://github.com/AKA-Liftoff-Group-2021/Organizely-App" target="_blank">Organizely E-Planner:</a> A responsive and dynamic web application, built with C#/.NET REST Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, to help students manage time and organize tasks, designed with simple but practical features. This is a group capstone project I am working on with 3 other LaunchCode graduates. </li>
   <li><a href="https://github.com//mlwalters/MovieWatchlist" target="_blank">A full-stack movie watchlist web app using C#/.NET5 and SQLServer for the database.</a> This will be modified to be an application that will make it easier for couples, families, and friends to decide on what to watch by matching their lists and interests.</li>
+  <li><a href="https://github.com/mlwalters/angular11dotnet5-paymentDetailApp" target="_blank">An Angular 11 web app that consumes a Web API built using  C#/.NET5, with SQLServer as database provider</a>. I followed a tutorial for this to review Angular and learn to consume an API using HTTP requests, and mostly learn to build a web API as preparation for my capstone project (Organizely E-Planner).</li>
 </ul>
 <br />
 <p><strong>📧  How to reach me: </strong><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F" target="_blank">LinkedIn</a></p>
@@ -26,7 +27,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 
 
 <h3>Projects I've made</h3> 
-<h4>Back-end skills:</h4>
+<h4>Full-stack/Back-end skills:</h4>
 <ul>
   <li>A C#/.NET web app using MVC design pattern to create a movie watchlist using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com//mlwalters/MovieWatchlist" target="_blank"> Repo</a></li>
   <li>TechJobs (Persistent edition): A C#/.NET web app using MVC design pattern that can search and list(lookup) jobs using persistent database (MySQL) with authentication and CRUD functionality <a href="https://github.com//mlwalters/TechJobsPersistent" target="_blank"> Repo</a></li>
@@ -34,10 +35,10 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 </ul>
 <h4>Front-end skills:</h4>
 <ul>
-  <li>A LaunchCode Codergirl assignment, a webpage to demostrate HTML/CSS skills<a href="https://mlwalters.github.io/html-me-something" target="_blank"> Live</a> | <a href="https://github.com/mlwalters/html-me-something" target="_blank"> Repo</a></li>
+  <li>A LaunchCode Codergirl assignment, a webpage to demonstrate HTML/CSS skills<a href="https://mlwalters.github.io/html-me-something" target="_blank"> Live</a> | <a href="https://github.com/mlwalters/html-me-something" target="_blank"> Repo</a></li>
 <li>A website with activities you can do during quarantine using HTML/CSS <a href="https:///mlwalters.github.io/stay-at-home/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/stay-at-home" target="_blank"> Repo</a></li>
+  <li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/booklist-app" target="_blank"> Repo</a></li>
 <li>A to-do web app that stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/todo-webapp/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/todo-webapp" target="_blank"> Repo</a></li>
-<li>A booklist app that also stores data to local storage using HTML/CSS/JavaScript <a href="https:///mlwalters.github.io/booklist-app/" target="_blank"> Live</a> | <a href="https://github.com//mlwalters/booklist-app" target="_blank"> Repo</a></li>
 <li>freeCodeCamp sample portfolio <a href="https://mlwalters.github.io/freeCodeCamp-portfolio/" target="_blank">Live</a> | <a href="https://github.com//mlwalters/fcc-portfolio" target="_blank"> Repo</a></li>
 
   </ul>

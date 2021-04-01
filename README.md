@@ -19,7 +19,6 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
   <li><a href="https://github.com/AKA-Liftoff-Group-2021/Organizely-App" target="_blank">Organizely E-Planner:</a> A responsive and dynamic web application, built with C#/.NET REST Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, to help students manage time and organize tasks, designed with simple but practical features </li>
   <li><a href="https://github.com//mlwalters/MovieWatchlist" target="_blank">A full-stack movie watchlist web app using C#/.NET5 and SQLServer for the database.</a></li>
 </ul>
-<h4>I’m looking to collaborate on</h4> a full stack web app with senior developers who would like to share their knowledge and experience of C#/.NET/JavaScript/SQL/Angular/React with a determined, coachable junior developer who loves learning <em>(cough cough, it's me)</em>
 <br />
 <br />
 <p><strong>📧  How to reach me: </strong><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHyjq3ww_dROwAAAXfhlx0ouoRAxqESwrt3D9h_GORCJ8qvG0OEH2tkpk-2J-GLNMD4aYXx_4BmNC8O6F9OOUQh9NSUkpU7AB-Aptqgw6DlwPtchajF2yfAVaGbg4oG6_SyZ08=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaricar-walters%2F" target="_blank">LinkedIn</a></p>

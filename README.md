@@ -31,7 +31,7 @@ I am **available for remote full-time employment** mainly focused on **C#/.NET**
 <ul>
   <li>A C#/.NET web app using MVC design pattern to create a movie watchlist with Bootstrap, using persistent database (SQLServer) with authentication and CRUD functionality <a href="https://github.com//mlwalters/MovieWatchlist" target="_blank"> Repo</a></li>
   <li>TechJobs (Persistent edition): A C#/.NET web app using MVC design pattern that can search and list(lookup) jobs with Bootstrap, using persistent database (MySQL) with authentication and CRUD functionality <a href="https://github.com//mlwalters/TechJobsPersistent" target="_blank"> Repo</a></li>
-  <li>Coding Events: A C#/.NET web app using MVC design pattern with EF Core, a persistent database (MySQL) with authentication and CRUD functionality, and the Identity package for authorization where you can add coding events with categories linked to each event<a href="https://github.com//mlwalters/TechJobsPersistent" target="_blank"> Repo</a></li>
+  <li>Coding Events: A C#/.NET web app using MVC design pattern with EF Core, a persistent database (MySQL) with authentication and CRUD functionality, and the Identity package for authorization where you can add coding events with categories linked to each event<a href="https://github.com/mlwalters/codingEvents-authentication" target="_blank"> Repo</a></li>
 </ul>
 <h4>Front-end skills:</h4>
 <ul>

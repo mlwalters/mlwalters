@@ -17,12 +17,11 @@ I am available for remote full-time employment mainly focused on C#/.NET and Jav
 
 ## My Tech Stack
 <div>
-<span><img src="assets/csharp.png" alt="c-sharp logo" width="60"></span><span><img src="assets/dotnet.png" alt="dotnet logo" width="60"></span><span><img src="assets/html-5.png" alt="HTML5 logo" width="60"></span><span><img src="assets/css.png" alt="CSS3 logo" width="60"></span><span><img src="assets/bootstrap.png" alt="bootstrap logo" width="60"></span><span><img src="assets/mysql.png" alt="mysql logo" width="60"></span><span><img src="assets/Microsoft-SQL-Server-logo.jpg" alt="Microsoft SQL Server logo" width="60"></span><img src="assets/sqlite.jpg" alt="SQLite logo" width="60"></span><span><img src="assets/nodejs.png" alt="node-js logo" width="60"></span><span><img src="assets/mstest.png" alt="MS test logo" width="60"></span><span><img src="assets/jasmine.png" alt="jasmine logo" width="60"></span><span><img src="assets/typescript.png" alt="typescript logo" width="60"></span><span><img src="assets/angular.png" alt="angular logo" width="60"></span>
+<span><img src="assets/csharp.png" alt="c-sharp logo" title="C#" width="60"></span><span><img src="assets/dotnet.png" alt="dotnet logo"  title=".NET" width="60"></span><span><img src="assets/html-5.png" alt="HTML5 logo"  title="HTML5" width="60"></span><span><img src="assets/css.png" alt="CSS3 logo"  title="CSS3" width="60"></span><span><img src="assets/bootstrap.png" alt="bootstrap logo"  title="Bootstrap" width="60"></span><span><img src="assets/Microsoft-SQL-Server-logo.jpg" alt="Microsoft SQL Server logo" title="SQL Server" width="60"></span><span><img src="assets/sqlite.jpg" alt="SQLite logo" title="SQLite" width="60"></span><span><img src="assets/mysql.png" alt="mysql logo"  title="MySQL" width="60"></span><span><img src="assets/nodejs.png" alt="node-js logo" title="Node.js" width="60"></span><span><img src="assets/mstest.png" alt="MS test logo" title="MS Test" width="60"></span><span><img src="assets/jasmine.png" alt="jasmine logo" title="Jasmine" width="60"></span><span><img src="assets/typescript.png" alt="typescript logo" title="Typescript" width="60"></span><span><img src="assets/angular.png" alt="angular logo" title="Angular" width="60"></span>
 </div>
-<br />
 
 ## I’m currently learning
-<span><img src="assets/react.png" alt="c-sharp logo" width="60"></span>
+<span><img src="assets/react.png" alt="react logo" title="React" width="60"></span>
 ## I’m currently working on
  
 - [Organizely E-Planner (March 1, 2021 - April 26, 2021)](https://github.com/AKA-Liftoff-Group-2021/Organizely-App): A dynamic web application, built with C#/.NET RESTful Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, and JSON web tokens for authentication to help students manage time and organize tasks, designed with simple but practical features. This is a group capstone project I worked on with 3 other LaunchCode graduates. 

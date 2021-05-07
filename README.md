@@ -4,7 +4,8 @@
 
 I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
-Before joining LaunchCode's CoderGirl JavaScript & C# Web Development program where I also got familiar with Angular, Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months using freeCodeCamp, Udemy, and YouTube tutorials.
+I moved to the US a few years ago and to rebuild a career, I decided to rekindle my interest in programming. I studied Computer Science briefly and Nursing in college and worked in various fields, but coding has been the most interesting and truly enjoyable (also challenging) field I've been in, and one I'd like to build a long-term career in.
+Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program, I self-taught HTML5, CSS3, Bootstrap, JavaScript, and some TypeScript and Node.js for several months through Udemy, YouTube, and freeCodeCamp, where I earned a certificate in web accessibility and responsive web design.
 
 #### I am available for remote full-stack/front-end/back-end full-time employment mainly focused on C#/.NET and JavaScript Web Development.
 

@@ -2,11 +2,11 @@
 # Hi there 👋
 
 
-I'm Maricar (MAH-ree-car/Mah-ree-CAR)/Kai.
+I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
-Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months using freeCodeCamp and YouTube tutorials, before joining LaunchCode's CoderGirl JavaScript & C# Web Development program where I also got familiar with Angular.
+Before joining LaunchCode's CoderGirl JavaScript & C# Web Development program where I also got familiar with Angular, Self-taught JavaScript, HTML, CSS, Bootstrap, Node.js, TypeScript for 6~ months using freeCodeCamp, Udemy, and YouTube tutorials.
 
-I am available for remote full-time employment mainly focused on C#/.NET and JavaScript Web Development.
+### I am available for remote full-time employment mainly focused on C#/.NET and JavaScript Web Development.
 
 📧 How to reach me: LinkedIn
 

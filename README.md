@@ -13,8 +13,6 @@ Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program
 
 ✨ Pronouns: she/her
 
-⚡ Random facts about me: I used to work as a flight attendant and an ESL instructor. I can read and write Korean characters, just don't ask me to translate them 😅
-
 
 ## My Tech Stack
 <div>

@@ -8,7 +8,7 @@ Before joining LaunchCode's CoderGirl JavaScript & C# Web Development program wh
 
 #### I am available for remote full-stack/front-end/back-end full-time employment mainly focused on C#/.NET and JavaScript Web Development.
 
-📧 How to reach me: LinkedIn
+📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/maricar-walters)
 
 ✨ Pronouns: she/her
 

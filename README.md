@@ -4,7 +4,8 @@
 
 I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
-I moved to the US a few years ago and to rebuild a career, I decided to rekindle my interest in programming. I studied Computer Science briefly and Nursing in college and worked in various fields, but coding has been the most interesting and truly enjoyable (also challenging) field I've been in, and one I'd like to build a long-term career in.
+I moved to the US a few years ago and to rebuild a career, I decided to rekindle my interest in programming. I studied Computer Science briefly and Nursing in college and worked in various fields, but coding has been the most interesting and truly enjoyable (albeit challenging) field I've been in, and one I'd like to build a long-term career in. I love how much support there is in tech, developers building open source software, free courses online, support from organizations like LaunchCode and experienced developers willing to help beginners and especially the support to encourage more diversity in tech. 
+
 Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program, I self-taught HTML5, CSS3, Bootstrap, JavaScript, and some TypeScript and Node.js for several months through Udemy, YouTube, and freeCodeCamp, where I earned a certificate in web accessibility and responsive web design.
 
 #### I am available for remote full-stack/front-end/back-end full-time employment mainly focused on C#/.NET and JavaScript Web Development.

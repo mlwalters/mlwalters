@@ -22,8 +22,8 @@ Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program
 ## I’m currently working on
  
 - [Organizely E-Planner (March 1, 2021 - April 26, 2021)](https://github.com/AKA-Liftoff-Group-2021/Organizely-App): A dynamic web application, built with C#/.NET RESTful Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, and JSON web tokens for authentication to help students manage time and organize tasks, designed with simple but practical features. This is a group capstone project I worked on with 3 other LaunchCode graduates. 
-- [Recipe Manager (May 6, 2021 - Present)](https://github.com/mlwalters/MyRecipeCollection) A full-stack recipe manager using C#/.NET5 MVC pattern and Bootstrap on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer Express LocalDb for the database, and Swagger UI. 
-- [MEAN stack app](https://github.com/mlwalters/MEANStackWebApp) Building a full-stack social media app using Angular, Node.js, Express, and MongoDB (MEAN stack). Features include authentication and authoriimage upload, pagination
+- [Recipe Manager (May 19, 2021 - Present)](https://github.com/mlwalters/MyRecipeCollection) A full-stack recipe manager using C#/.NET5 MVC pattern and Bootstrap on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer Express LocalDb for the database, and Swagger UI. 
+- [MEAN stack app (May 21, 2021 - Present)](https://github.com/mlwalters/MEANStackWebApp) Building a full-stack social media app using Angular, Node.js, Express, and MongoDB (MEAN stack). Features include authentication and authoriimage upload, pagination
 
 ## My Projects
 #### Full-stack/Back-End

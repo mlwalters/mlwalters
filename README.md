@@ -19,11 +19,12 @@ Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program
 
 ## I’m currently working on
  
-- [Organizely E-Planner (March 1, 2021 - April 26, 2021)](https://github.com/AKA-Liftoff-Group-2021/Organizely-App): A dynamic web application, built with C#/.NET RESTful Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, and JSON web tokens for authentication to help students manage time and organize tasks, designed with simple but practical features. This is a group capstone project I worked on with 3 other LaunchCode graduates. 
 - [Recipe Manager (May 19, 2021 - Present)](https://github.com/mlwalters/MyRecipeCollection) A full-stack recipe manager using C#/.NET5 MVC pattern and Bootstrap on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer Express LocalDb for the database, and Swagger UI. 
+- DataCamp: Introduction to SQL Server
 
 ## My Projects
 #### Full-stack/Back-End
+- [Organizely E-Planner (March 1, 2021 - April 26, 2021)](https://github.com/AKA-Liftoff-Group-2021/Organizely-App): A dynamic web application, built with C#/.NET RESTful Web API for the back-end and Angular 11 for the front-end, using SQLite for the database, and JSON web tokens for authentication to help students manage time and organize tasks, designed with simple but practical features. This is a group capstone project I worked on with 3 other LaunchCode graduates. 
 - [TechJobs (Persistent edition)](https://github.com//mlwalters/TechJobsPersistent): A C#/.NET web app using MVC design pattern that can search and list(lookup) jobs with Bootstrap, using persistent database (MySQL) with authentication and CRUD functionality
 - [Coding Events](https://github.com/mlwalters/codingEvents-authentication): A C#/.NET web app using MVC design pattern with EF Core, a persistent database (MySQL) with authentication and CRUD functionality, and the Identity package for authorization where you can add coding events with categories linked to each event
 - [Payment Detail App](https://github.com/mlwalters/angular11dotnet5-paymentDetailApp): An Angular 11 web app that consumes a Web API built using C#/.NET5, Bootstrap, with SQLServer as database provider. I followed a tutorial for this to review Angular and learn to consume an API using HTTP requests, and mostly learn to build a web API as preparation for my capstone project (Organizely E-Planner).

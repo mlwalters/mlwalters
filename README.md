@@ -19,7 +19,7 @@ Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program
 
 ## I’m currently working on
  
-- [Recipe Manager (May 19, 2021 - Present)](https://github.com/mlwalters/MyRecipeCollection) A full-stack recipe manager using C#/.NET5 MVC pattern and Bootstrap on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer Express LocalDb for the database, and Swagger UI. 
+- [Recipe Manager](https://github.com/mlwalters/recipeManager) A full-stack recipe manager using React on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer for the database and Swagger UI. 
 - [DataCamp](https://www.datacamp.com/): Introduction to SQL Server 
 
 ## My Projects

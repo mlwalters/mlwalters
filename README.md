@@ -46,6 +46,6 @@ Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program
 ## Certificates
 - [LaunchCode](https://www.launchcode.org/) Codergirl JavaScript & C# Web Development Course - 2020-2021
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design) - 2020
-- freeCodeCamp Algorithm and Data Structures - 2020 (3 challenges away from getting my certificate, temporarily discontinued to focus on LaunchCode's course)
+- freeCodeCamp Algorithm and Data Structures - 2020 (1 challenge away from getting my certificate, temporarily discontinued to focus on LaunchCode's course)
 
 <sub>Credits: icons from freepik/flaticon</sub>

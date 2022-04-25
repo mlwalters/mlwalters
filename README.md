@@ -4,8 +4,6 @@
 
 I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
-Prior to enrolling to the **LaunchCode C# & JavaScript Web Development** program, I self-taught HTML5, CSS3, Bootstrap, JavaScript, and some TypeScript and Node.js for several months through Udemy, YouTube, and freeCodeCamp, where I earned a certificate in web accessibility and responsive web design.
-
 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/maricar-walters)
 
 ✨ Pronouns: she/her

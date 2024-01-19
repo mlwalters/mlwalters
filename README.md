@@ -17,7 +17,8 @@ I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 </div>
 
 ## I’m currently working on
- 
+
+- [Todo App](https://github.com/PairProgramming-Projects/nodereact-todo) A simple todo list application I am working on with a colleague to learn Node.js, postgreSQL, and Sequelize, as well as a React refresher
 - [Recipe Manager](https://github.com/mlwalters/recipeManager) A full-stack recipe manager using React on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer for the database and Swagger UI. 
 - [DataCamp](https://www.datacamp.com/): Introduction to SQL Server 
 

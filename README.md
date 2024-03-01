@@ -10,6 +10,7 @@ I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
 ## Professional Experience
 **Software Engineer II** — World Wide Technology, St. Louis, Missouri, USA | November 2021 - February 2024
+
 Roles:
 - Software Engineer II : Did full-stack development using  agile software development, test-driven development, extreme programming, and software testing
 - Software Engineer I : Some of the projects/teams: Assisted a heavy haul and equipment company in migrating 16 web APIs from .NET 4/Framework to .NET6 and from using Azure to AWS; Part of the e-commerce backend developers’ team that revamped a global fast-food chain’s applications as they scaled up and modernized their existing web and mobile applications using .NET 7 microservices; Did full-stack development for one of the internal IT teams, maintained and added features to several applications using NodeJS, Vue.js, and AngularJS; Created automated end-to-end tests for the applications using Playwright.

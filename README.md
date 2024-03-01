@@ -9,11 +9,13 @@ I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 ✨ Pronouns: she/her
 
 ## Professional Experience
-World Wide Technology, St. Louis, Missouri, USA | November 2021 - February 2024
-- Software Engineer II: Did full-stack development using  agile software development, test-driven development, extreme programming, and software testing
+**Software Engineer II** — World Wide Technology, St. Louis, Missouri, USA | November 2021 - February 2024
+- Software Engineer II : Did full-stack development using  agile software development, test-driven development, extreme programming, and software testing
 - Software Engineer I : Some of the projects/teams: Assisted a heavy haul and equipment company in migrating 16 web APIs from .NET 4/Framework to .NET6 and from using Azure to AWS; Part of the e-commerce backend developers’ team that revamped a global fast-food chain’s applications as they scaled up and modernized their existing web and mobile applications using .NET 7 microservices; Did full-stack development for one of the internal IT teams, maintained and added features to several applications using NodeJS, Vue.js, and AngularJS; Created automated end-to-end tests for the applications using Playwright.
-- Apprentice Developer: Worked on the full development cycle, end-to-end implementation, testing, and delivery of an internal tool using .NET 6 Web API, React 17, Material UI, React Testing Library, Jest, Cypress, Cucumber, xUnit, EF Core, SQL, SQL Server; Designed and implemented a recipe manager web application for my capstone project using React and Material UI for the front-end, C#, Entity Framework Core, SQL Server for the Web API, and Cypress, React Testing Library, and xUnit for the tests.
+- Apprentice Developer : Worked on the full development cycle, end-to-end implementation, testing, and delivery of an internal tool using .NET 6 Web API, React 17, Material UI, React Testing Library, Jest, Cypress, Cucumber, xUnit, EF Core, SQL, SQL Server; Designed and implemented a recipe manager web application for my capstone project using React and Material UI for the front-end, C#, Entity Framework Core, SQL Server for the Web API, and Cypress, React Testing Library, and xUnit for the tests.
 
+**Teaching Assistant** — LaunchCode, St. Louis, Missouri, USA | August 2021 - October 2021
+-   Part-time - Guided a group of JavaScript and Java Web Development students as their principal education and support point of contact throughout LaunchCode technical programs.
 
 ## My Tech Stack
 <div>

@@ -52,6 +52,7 @@ Roles:
 
 
 ## Certificates
+- Amazon Web Services (AWS) Cloud Practitioner Certificate CLF-C02 - DECEMBER 2023 - DECEMBER 2026
 - [LaunchCode](https://www.launchcode.org/) Codergirl JavaScript & C# Web Development Course - 2020-2021
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design) - 2020
 - freeCodeCamp Algorithm and Data Structures - 2020 (1 challenge away from getting my certificate, temporarily discontinued to focus on LaunchCode's course)

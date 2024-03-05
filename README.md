@@ -25,8 +25,13 @@ Roles:
 <span><img src="assets/react.png" alt="react logo" title="React" width="60"></span><span><img src="assets/html-5.png" alt="HTML5 logo"  title="HTML5" width="60"></span><span><img src="assets/css.png" alt="CSS3 logo"  title="CSS3" width="60"></span><span><img src="assets/bootstrap.png" alt="bootstrap logo" title="Bootstrap" width="60"></span><span><img src="assets/angular.png" alt="angular logo" title="Angular" width="60"></span><span><img src="assets/Microsoft-SQL-Server-logo.jpg" alt="Microsoft SQL Server logo" title="SQL Server" width="60"></span><span><img src="assets/sqlite.jpg" alt="SQLite logo" title="SQLite" width="60"></span><span><img src="assets/mysql.png" alt="mysql logo"  title="MySQL" width="60"></span><span><img src="assets/nodejs.png" alt="node-js logo" title="Node.js" width="60"></span><span><img src="assets/mstest.png" alt="MS test logo" title="MS Test" width="60"></span><span><img src="assets/jasmine.png" alt="jasmine logo" title="Jasmine" width="60"></span><span><img src="assets/typescript.png" alt="typescript logo" title="Typescript" width="60"></span>
 </div>
 
+## Certificates
+- Amazon Web Services (AWS) Cloud Practitioner Certificate CLF-C02 - DECEMBER 2023 - DECEMBER 2026
+- [LaunchCode](https://www.launchcode.org/) Codergirl JavaScript & C# Web Development Course - 2020-2021
+- [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design) - 2020
+- freeCodeCamp Algorithm and Data Structures - 2020 (1 challenge away from getting my certificate, temporarily discontinued to focus on LaunchCode's course)
+  
 ## I’m currently working on
-
 - [Todo App](https://github.com/PairProgramming-Projects/nodereact-todo) A simple todo list application I am working on with a colleague to learn Node.js, PostgreSQL, and Sequelize, as well as a React and Material UI refresher for me
 - [Recipe Manager](https://github.com/mlwalters/recipeManager) A full-stack recipe manager using React on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer for the database and Swagger UI. 
 
@@ -50,11 +55,5 @@ Roles:
 - A sample technical documentation page [Codepen](https://codepen.io/carrimaxx/full/eYJBMKr)
 - A sample survey form [Codepen](https://codepen.io/carrimaxx/full/dyYbyVd)
 
-
-## Certificates
-- Amazon Web Services (AWS) Cloud Practitioner Certificate CLF-C02 - DECEMBER 2023 - DECEMBER 2026
-- [LaunchCode](https://www.launchcode.org/) Codergirl JavaScript & C# Web Development Course - 2020-2021
-- [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design) - 2020
-- freeCodeCamp Algorithm and Data Structures - 2020 (1 challenge away from getting my certificate, temporarily discontinued to focus on LaunchCode's course)
 
 <sub>Credits: icons from freepik/flaticon</sub>

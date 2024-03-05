@@ -30,7 +30,10 @@ Roles:
 - [LaunchCode](https://www.launchcode.org/) Codergirl JavaScript & C# Web Development Course - 2020-2021
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/carrimaxx/responsive-web-design) - 2020
 - freeCodeCamp Algorithm and Data Structures - 2020 (1 challenge away from getting my certificate, temporarily discontinued to focus on LaunchCode's course)
-  
+
+## Speaking Engagements
+- Did a lightning talk for LaunchCode LC101 students, "Beyond LC101". LaunchCode is a non-profit organization is St. Louis, Missouri helping people learn to code, land a job, or hire tech talent. LC101 is their flagship program where students are taught full-stack web development.
+
 ## I’m currently working on
 - [Todo App](https://github.com/PairProgramming-Projects/nodereact-todo) A simple todo list application I am working on with a colleague to learn Node.js, PostgreSQL, and Sequelize, as well as a React and Material UI refresher for me
 - [Recipe Manager](https://github.com/mlwalters/recipeManager) A full-stack recipe manager using React on the front-end that consumes a C#/.NET RESTful Web API for the back-end, using Entity Framework Core and SQLServer for the database and Swagger UI. 

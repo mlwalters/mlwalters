@@ -4,10 +4,6 @@
 
 I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
-📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/maricar-walters)
-
-✨ Pronouns: she/her
-
 ## Professional Experience
 **Software Engineer II** — World Wide Technology, St. Louis, Missouri, USA | November 2021 - February 2024
 

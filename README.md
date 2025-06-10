@@ -5,6 +5,8 @@
 I'm **Maricar (MAH-ree-car/Mah-ree-CAR) or Kai**.
 
 ## Professional Experience
+**Software Developer** — Agile Fleet, USA | June 2024 - Present
+
 **Software Engineer II** — World Wide Technology, St. Louis, Missouri, USA | November 2021 - February 2024
 
 Roles:
